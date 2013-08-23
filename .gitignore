@@ -1,0 +1,5 @@
+*.xml
+Gemfile.lock
+.bundle
+.ruby-version
+vendor/bundle
